@@ -376,73 +376,6 @@ h2#confirmation {
   }
 }
 
-.elq-label,
-label {
-  font-size: 2em;
-}
-
-.elq-item-input,
-input {
-  border: 1px solid #a6a6a6 !important;
-  background: #ededee;
-
-  padding: 10px !important;
-  height: unset !important;
-}
-
-input[type="submit"] {
-  min-width: 170px;
-  height: 44px;
-  font-family: Metric, Arial, sans-serif;
-  font-weight: 600;
-  font-size: 18px;
-  background: #64bb46;
-  color: #fff;
-  border: 0 !important;
-  border-radius: 20px;
-  transition: background-color 0.2s ease;
-}
-
-input[type="submit"]:hover {
-  background: #0f8a07;
-}
-
-.elq-item-select,
-select {
-  font-size: 12px;
-  border: 1px solid #a6a6a6 !important;
-}
-
-#formElement7 {
-  padding-right: 4px !important;
-}
-
-form > div > div:nth-child(n + 9) {
-  display: none !important;
-}
-
-form > div > div:last-child {
-  display: block !important;
-}
-
-div.webinar__content-form h2 {
-  margin: 20px 25px 10px;
-}
-.elq-form .elq-label,
-.elq-form .elq-item-input,
-.elq-form .elq-item-select,
-.elq-form .elq-item-textarea {
-  font-size: 18px;
-}
-.elq-form .elq-item-select {
-  height: auto;
-}
-@media (min-width: 768px) {
-  .webinar .webinar__content > div:first-child {
-    width: 48%;
-  }
-}
-
 /* legacy */
 
 article,
@@ -3311,4 +3244,73 @@ a.btn.btn--watch {
 
 .icon-soc_youtube:before {
   content: "\e612";
+}
+
+/* Form Code */
+
+.elq-label,
+label {
+  font-size: 2em;
+}
+
+.elq-item-input,
+input {
+  border: 1px solid #a6a6a6 !important;
+  background: #ededee;
+
+  padding: 10px !important;
+  height: unset !important;
+}
+
+input[type="submit"] {
+  min-width: 170px;
+  height: 44px;
+  font-family: Metric, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  background: #64bb46;
+  color: #fff;
+  border: 0 !important;
+  border-radius: 20px;
+  transition: background-color 0.2s ease;
+}
+
+input[type="submit"]:hover {
+  background: #0f8a07;
+}
+
+.elq-item-select,
+select {
+  font-size: 12px;
+  border: 1px solid #a6a6a6 !important;
+}
+
+#formElement7 {
+  padding-right: 4px !important;
+}
+
+form > div > div:nth-child(n + 9) {
+  display: none !important;
+}
+
+form > div > div:last-child {
+  display: block !important;
+}
+
+div.webinar__content-form h2 {
+  margin: 20px 25px 10px;
+}
+.elq-form .elq-label,
+.elq-form .elq-item-input,
+.elq-form .elq-item-select,
+.elq-form .elq-item-textarea {
+  font-size: 18px;
+}
+.elq-form .elq-item-select {
+  height: auto;
+}
+@media (min-width: 768px) {
+  .webinar .webinar__content > div:first-child {
+    width: 48%;
+  }
 }
