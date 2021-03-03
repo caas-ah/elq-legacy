@@ -1,0 +1,31 @@
+h1, h2, h3, h4, h5, h6, p, li, cite, a { color: black !important; }
+a { text-decoration: underline; }
+
+#header ul, #header div, #footer ul { display: none; }
+    #footer p { float: none; }
+
+#hero { background-image: none !important; text-indent: 0; width: auto !important; height: auto !important; border-bottom: 0; }
+
+.replace { text-indent: 0; }
+.hdr { width: auto !important; text-indent: 0; background: none !important; }
+
+
+div.col, div.stack { float: none; width: auto !important; height: auto !important; background-image: none !important; background-color: white !important; padding: 0 !important; }
+
+#lyr_top, #lyr_mid, #lyr_bot { background-image: none !important; }
+
+#accordion .panel_body { display: block !important; }
+
+#button_printAll, #button_print { display: none !important; }
+
+#lyr_top .hdr { font-size: 1.5em; font-weight: bold; }
+
+div.switcher { visibility: hidden; }
+    div.switcher a { display: none; }
+        div.switcher span a.on { display: block !important; visibility: visible; font-size: 1.5em; !important; color: black !important; margin: 0 !important; padding: 0 !important; }
+
+
+
+#blogNav, #categoryBar, div.postTools ul, #comment-area, #pagination { display: none; }
+#blogContent { width: 95%; height: auto; background-color: white; }
+div.post, div.postContentWrap, div.postContent { background: none; width: auto; }

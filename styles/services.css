@@ -1,0 +1,570 @@
+.left {float:left;}
+.right {float:right;}
+
+/* ------------------------ */
+/*	HEADERS					*/
+/* ------------------------ */
+#hdr_howmuchcanisave { width: auto; height: 16px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_howmuchcanisave.gif); }
+#hdr_recentAwards { width: auto; height: 16px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/promos/hdr_recent_awards_color3.gif); }
+#hdr_Newsletter { width: auto; height: 16px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/promos/hdr_our_newsletter_module_2.gif); }
+#hdr_behindtherankings { width: auto; height: 16px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_behindtherankings.gif); }
+#hdr_methodology { width: 113px; height: 14px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_methodology.gif); }	
+#hdr_resources { width: 87px; height: 14px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/promos/hdr_resources.gif); }
+#hdr_resources_pv { width: 87px; height: 14px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_resources.gif); }
+#hdr_2010hightlights { width: 123px; height: 12px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_2010highlights.gif); }
+#hdr_2011hightlights { width: 125px; height: 12px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_2011highlights.png); }
+#hdr_industryTrends { width: 133px; height: 12px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_industrytrends.gif); }
+#hdr_Collector { width: 250px; height: 20px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_collector.png); margin-top: 0; padding-top: 8px;}
+#hdr_Clinicals { width: 250px; height: 20px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_clinicals.png); margin-top: 0; padding-top: 8px;}
+#hdr_Communicator { width: 250px; height: 20px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_communicator.png); margin-top: 0; padding-top: 8px;}
+#hdr_Coordinator { width: 250px; height: 20px; background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hdr_coordinator.png); margin-top: 0; padding-top: 8px;}
+
+#svcsAthenaCoordinator .pageContent h2 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-size:24px; margin-top: 0; font-weight: bold; padding-top: 0;  }
+
+.footerCallout, .headerCallout {  margin-bottom:10px; width:928px; height:46px;  background:#514b79; float: left; }
+.footerCallout p, .headerCallout p { padding-top:13px; font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-size:16px; font-weight: 700; width: 550px; margin-left: 225px; padding-left: 20px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/home/cta_arrow_white.png) no-repeat 0 17px; }
+.footerCallout p .highlight, .headerCallout p .highlight { color:#ffc900; } 
+.headerCallout { margin: 0 0 8px 0 ; background: #453F6C; height: 60px;}
+.headerCallout p { 
+    padding: 20px 0 0 90px;
+    margin: 0 auto;
+    width: 616px;
+    height: 42px;
+    background: url('/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/carousel_moneybags.png') no-repeat center left;
+    background-size: 80px;
+}
+
+/* ------------------------ */
+/*	HERO IMAGES				*/
+/* ------------------------ */
+/* #svcsAthenaCollector #hero { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hero_collector.jpg) left top no-repeat; height: 390px; } */
+/* #svcsAthenaClinicals #hero { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hero_collector.jpg) left top no-repeat; height: 390px; } */
+/* #svcsAthenaCommunicator #hero { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hero_communicator.jpg) left top no-repeat; height: 390px; } */
+/* #svcsPayerView #hero { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hero_collector.jpg) left top no-repeat; height: 390px; } */
+#svcsPayerView #hero { background-color: #504a79; }
+
+/* ------------------------ */
+/*	OTHER					*/
+/* ------------------------ */
+#svcsAthenaClinicals #sidebar { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/promos/hitech_large.jpg) left top no-repeat !important; height: 390px; padding-bottom: 8px; }
+#svcsAthenaCommunicator #sidebar { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/sidebar_communicator.jpg) left top no-repeat !important; height: 390px; padding-bottom: 8px; }
+
+body.services blockquote { margin-top: 40px; width: 180px; }	
+
+body.services .pageContent div { margin-top:22px; }    
+
+body.services .pageContent h2 { margin: 0 0 15px; }
+body.services .pageContent h3 { margin-top: 35px; letter-spacing: 0.07em; }
+    body.services .pageContent h3.product { text-transform: none; letter-spacing: 0; font-size: 1.3em; line-height: 1.5em; }
+body.services .pageContent p, body.services .pageContent li, body.services .pageContent h4 { font-size: 1.3em; line-height: 1.55em; }
+    body.services .pageContent h4 { display: inline; }
+    body.services .pageContent div.footnotes p { font-size: 0.85em; line-height: 1.4em; }
+    body.services div.footnotes { margin-top: 3em; }
+body.services .pageContent .intro { font-weight: bold; }
+
+body.services .toggle_content div { font-size: 1.3em; line-height: 1.55em; margin-bottom: 1em; color: white; }
+    body.services .toggle_content div h4 { font-size: 1.0em; }
+    body.services .toggle_content div p { font-size: 1.0em; margin-top: 1em; }
+
+body.services ul.services li { padding-left: 20px; margin-left: 20px; }
+body.services ul.traditional li { background-position: 0 8px; }
+
+/* #flashModule { width: 694px; height: 390px; border-bottom: 8px solid white; } */
+
+.color1 .videoCallout { display: block; font-size: 1.3em; line-height: 1.55em; margin-bottom: 1em; width: 368px; height: 38px; padding: 17px 0 0 55px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color1_video_callout.gif); }
+    .color1 .videoCallout:hover { background-position: 0 -55px; }
+    
+#contact_box { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color1_innerbox_services.gif) no-repeat left top; width: 430px; height: 127px; padding: 15px; }
+#contact_box h2, #contact_box_coordinator h2 { padding: 8px; margin: 0; }
+#contact_box p, #contact_box_coordinator p { width: 300px; padding: 0 0 0 96px; margin-top: 0; }
+#contact_box p strong, #contact_box_coordinator p strong{ color: #f0cc01; }
+
+#contact_box_coordinator{ background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color1_innerbox_services_2.gif) no-repeat left top; width: 430px; height: 127px; padding: 15px; }
+
+#dontMissText { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/dontmiss_2.gif) no-repeat left bottom; width: 196px; padding-bottom: 8px; }
+    #dontMissText div { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/dontmiss_2.gif) no-repeat left top; padding: 8px 8px 0 8px; width: 180px; }
+    #dontMissText p { margin-bottom: 0; }
+
+.vidah { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/careers/vid_ah_overview.jpg); }
+.vidBirmingham  { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_birmingham_blue.jpg); }
+.vidThisIsHowCoordinator  { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_this_is_how_coordinator_blue.jpg); }
+/* ------------------------ */
+/*	RESOURCE LIBRARY		*/
+/* ------------------------ */
+
+#sidenavContentType {
+    width: 185px;
+    margin-top: 10px;
+    background: #4e630e url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/sortSidebarHeader.gif) left top no-repeat;
+}
+    #sidenavContentType label:hover { 
+        cursor: pointer;
+    }
+#sidenavCategories {
+    width: 185px;
+    margin-bottom: 40px;
+    background: #4e630e url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/sortSidebarHeader2.gif) left top no-repeat;
+}
+    #sidenavContentType div { 
+        /* background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/sortSidebarFooter.gif) bottom left no-repeat; */
+        margin-top: 10px;
+        padding: 41px 0 10px 16px;
+        width: 169px;
+    }
+    #sidenavCategories div { 
+        background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/sortSidebarFooter.gif) bottom left no-repeat;
+        
+        padding: 31px 0 10px 16px;
+        width: 169px;
+    }
+
+    #sidenavContentType h4,
+    #sidenavCategories h4 {
+        letter-spacing:1px;
+        font-weight: bold;
+        color: #b2c54f;
+        padding: 10px 0 10px;
+        margin: 10px 0 10px;
+        border-bottom: 1px dashed #8d9f2f;
+        text-transform: uppercase;
+        width: 150px;
+    }
+    
+    #sidenavContentType p,
+    #sidenavCategories p {
+        margin-top:0;
+        line-height: 1.4em;
+        width: 135px;
+        font-weight: bold;
+        color: #b2c54f;
+    }
+    
+    #sidenavContentType ul li,
+    #sidenavCategories ul li {
+        padding-bottom: 10px;
+    }
+    #sidenavCategories ul li {
+        width: 135px;
+    }
+    
+    #sidenavContentType input,
+    #sidenavCategories input {
+        margin: 2px 6px 0 0;
+        vertical-align: bottom;
+    }
+    #sidenavContentType label,
+    #sidenavCategories label {
+        vertical-align: bottom;
+    }
+    label:hover {
+        text-decoration: underline;
+    }
+    label.current {
+        color: white;
+        text-decoration: none;
+    }
+    
+    
+#resourceLibrary .pageContent {
+    background: none;
+    padding-left: 0;
+    width:446px;
+}
+
+    #resourceLibrary .pageContent p, #resourceLibrary .pageContent a { font-size:0.9em; line-height: 1.4em; }
+        #resourceLibrary .pageContent p a { font-size: 1em; }
+    #resourceLibrary #pageNavContainer { width: 196px; float: left; padding: 25px 15px 0 0; }
+    #resourceLibrary .pageContent { width: padding-left: 0px; }
+
+.libraryCalloutMain { margin: 10px 0 0 0 !important; padding-top: 3px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/mainCalloutBg.gif) left top repeat-y; }
+.libraryCalloutMain .inner { padding: 15px 15px 15px 30px; margin: 0 !important; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/mainCalloutBg.gif) left bottom repeat-y; }
+.libraryCalloutMain .inner, .libraryCalloutMain .inner ul, .libraryCalloutMain .inner li, .libraryCalloutMain .inner p { font-size: 1em !important; } 
+    .libraryCalloutMain .inner ul {
+        list-style: none !important;
+        margin: 0;
+        padding: 0;
+    }
+    .libraryCalloutMain .inner li { 
+        list-style-image: none;
+        background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/libraryBullet.gif) 0 8px no-repeat; 
+        padding-left: 16px; 
+        margin: 0 0 8px 0;
+    }
+
+div.itemViewHeader { margin-top: 21px !important; position: relative; }
+.itemViewHeader a { color: #fff; line-height: 34px !important; height: 34px; width: 449px; text-indent: 15px; display: block; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/libraryTag.gif) 0 0; }
+    .itemViewHeader a:hover { background-position: 0 -34px; }
+.itemViewHeader sup { display: none; }
+
+#favView { padding: 15px 0 0; line-height: 15px; } 
+
+a.favStar { margin: 5px 0 0 10px; width: 12px; height: 12px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/twinkleStarSprite.gif) 0 0; }
+#favList { display: inline-block; line-height: 12px; width: 100px !important; float: left; margin: 0 0 0 4px; padding: 0; vertical-align: bottom; }
+a.favStarAll { margin: 1px 3px 0 0; padding: 0; line-height: 12px !important; float:left; width: 12px; height: 12px; display: inline-block; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/twinkleStarSprite.gif) 0 0; }
+    a.favOn, a.favStar:hover, a.favStarAll:hover, .favOn a { background-position: 0 -12px; color: white; }
+
+.resourceSeparator {
+    width: 100%;
+    border-top: 1px dashed #94a635;
+    border-bottom: 1px dashed #94a635;
+    margin: 10px 0 !important;
+    font-size: 1em !important;
+}
+
+    .resourceSeparator p {
+        font-weight: bold;
+        color: #b2c54f;
+        margin: 8px 0 !important;
+    }
+    .resourceSeparator span {
+        font-weight: normal;
+    }
+    
+.libraryResource { margin-top: 0px !important; margin-bottom: 0px !important; font-size: 1em !important; }
+.libraryResource .resourceIcon { width: 80px; }
+.libraryResource .resourceText { width: 345px; margin-bottom: 0px !important; }
+.libraryResource .resourceErrorText { width: 430px; margin-bottom: 0px !important; }
+    .libraryResource .resourceText p { margin-top: 2px !important; margin-bottom: 0 !important;} 
+    .libraryResource .resourceText p a { color: #fff; text-decoration: none; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/underline.gif) left bottom repeat-x; } 
+    .libraryResource .resourceText p a:hover { color: #d7e29a; text-decoration: none; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/underline_hover.gif) left bottom repeat-x; } 
+.libraryResource .resourceStar { width: 12px; }
+.libraryResource div, .libraryResource div h4 { font-size: 1em !important; }
+.libraryResource div h4 { color: #f0cc01; }
+.resourceHover h4 a { text-decoration: underline; }
+
+.labelDisabled { color: #789227; }
+
+.resourceEmpty {
+    display: none;
+}
+    .resourceEmpty div {
+        margin-top: 0;
+    }
+    
+p.compressed { letter-spacing: -0.5px; } 
+#sidenavLibrary sup { font-size: 0.7em; } 
+
+body.services .pageContent .resourceType {
+    margin-top: 11px;
+}
+
+
+.resourceIcon a { display: block; width: 59px; height: 56px; margin-top: 5px; background-position: 0 0; background-repeat: no-repeat; }
+.resourceHover .resourceIcon a { background-position: 0 100%; }
+
+#whatisathenahealth .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_whatisathenahealth.jpg); }
+#athenacollectorserviceoverview .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_athenacollectorserviceoverview.jpg); }
+#athenaclinicalsserviceoverview .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_athenaclinicalsserviceoverview.jpg); }
+#athenacommunicatorserviceoverview .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_athenacommunicatorserviceoverview.jpg); }
+#howrulesdbworks .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_howrulesdbworks.jpg); }
+#powerofpayerview .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_powerofpayerview.jpg); }
+#wholechildcenter .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_wholechildcenter.jpg); }
+#wrightstatephysicians .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_wrightstatephysicians.jpg); }
+#cookchildrenshcs .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_cookchildrenshcs.jpg); }
+#fedbonusguaranteeehr .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_fedbonusguaranteeehr.jpg); }
+#deerpathprimarycare .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_deerpathprimarycare.jpg); }
+#deerpathdoctorsincrease .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_deerpathdoctorsincrease.jpg); }
+#deerpathprimarycareremindercall .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_deerpathprimarycareremindercall.jpg); }
+#masuccistreamlined .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_masuccistreamlined.jpg); }
+#masuccipaidfaster .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_masuccipaidfaster.jpg); }
+#schuermannemreasytouse .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_schuermannemreasytouse.jpg); }
+#physicianviewsonemr .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_physicianviewsonemr.jpg); }
+#ruralhealthtestimonialgee .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_ruralhealthtestimonialgee.jpg); }
+#familymedicinepatients .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_familymedicinepatients.jpg); }
+#whatishitechact .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_hitechact.jpg); }
+#valleymedicalcertification .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_valleymedical.jpg); }
+#whatisthebeast .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_thebeast.jpg); }
+#pediatricsclinicals .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_pediatrics_clinicals.jpg); }
+#athenacoordinatorserviceoverview .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_athenacoordinatorserviceoverview.jpg); }
+#pediatricpartners .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_pediatricpartners.jpg); }
+#wilsonstream .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_wilson.jpg); }
+#BehindMU .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_behindmu.jpg); }
+#MtAuburnMU .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_mountauburn.jpg); }
+#cookchildrensvid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_cookchildrens.jpg); }
+#eubanksVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_eubanks.jpg); }
+#vaccineviewVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_vaccineview.jpg); }
+#evergreenVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_evergreen.jpg); }
+#cloudOverviewVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_cloud_overview.jpg); }
+#birminghamVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_birmingham.jpg); }
+#floridaWomenCareVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_florida_woman_care.jpg); }
+#thisIsHowCoordinatorVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_this_is_how_coordinator.jpg); }
+#thisIsHowMUVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_this_is_how_MU.jpg); }
+#overviewHMA .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_hma.jpg); }
+#ahAboutUs .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/ah_about_us.jpg); }
+#presbyterianVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_presbyterian.jpg); }
+#rosedaleIDVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_rosedale_id.jpg); }
+#hudsonHeadwatersVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_hudson_headwaters.jpg); }
+#graceFamilyVid	.resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_grace_family.jpg); }
+#vid_michiana .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_biwithathenaclarity.jpg); }
+#vid_manahawkin	.resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_manahawkin_urgent_care_testimonial.jpg); }
+#vid_family_practice .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_family_practice_specialists_testimonial.jpg); }
+#vid_infants_and_children_pediatrics .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_infants_and_children_pediatrics.jpg); }
+#vid_huron_valley_physicians_association .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_huron_valley_physicians_association.jpg); }
+#vid_practicemanagers .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_practice_managers_benefits.jpg); }
+
+    #esoverviewVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_esintro.jpg); }
+    #esceoVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_ceo.jpg); }
+    #escioVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_cio.jpg); }
+    #escooVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_coo.jpg); }
+    #escmoVid .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_cmo.jpg); }
+
+#crackingcodeofehrdesign .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_ehr.gif); }
+#meaningfulfedstimulusbonus .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#payerview2010improving .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_payerview.gif); }
+#webinar_decodingmeaningfuluse .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_hitechact8tips .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_ehr.gif); }
+#webinar_meaningfuluseincentives .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#webinar_boostingscheduledensity .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_ehr.gif); }
+#webinar_7tips .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#webinar_qualitymanagement .resourceIcon a, #webinar_qualitymanagement_2 .resourceIcon a, #webinar_mu_trenches .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#webinar_aco .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_selfpay .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#webinar_providerproductivity .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_ehr.gif); }
+#webinar_ansi5010 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_cloud .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_stage2-MU .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_icd-10 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_payerview2011 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_payerview.gif); }
+#webinar_pcmh .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_rules.gif); }
+#webinar_practice_growth .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/webinar_guarantee.gif); }
+#vid_testimonial_clinicals_obgyn_120 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_testimonial_clinicals_obgyn.jpg); }
+#vid_testimonial_clinicals_ortho_120 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_testimonial_clinicals_ortho.jpg); }
+#vid_testimonial_clinicals_cardiology_120 .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_testimonial_clinicals_cardiology.jpg); }
+#vid_athenaclarity_neqca .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_NEQCA_athenaClarity.jpg); }
+
+/*athenaClinicals additions*/
+#vid_ac_orthoatlanta .resourceIcon a { background-image: url('/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_ac_orthoatlanta.jpg'); }
+#vid_ac_caromont .resourceIcon a { background-image: url('/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_ac_caromont.jpg'); }
+#vid_ac_iphone .resourceIcon a { background-image: url('/web/20161219050828im_/http://www.athenahealth.com/_img/library/vid_ac_iphone.jpg'); }
+
+.casestudy .resourceIcon a { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/casestudy_icon.jpg); }
+
+
+#allCategories { display: block; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/library/arrows.gif) no-repeat top left; height: 12px; padding-left: 20px; margin-top: 15px; }
+    .selected #allCategories { background-position: 0 -15px; color: white; }
+.selected a { color: white; }
+
+/* ------------------------ */
+/*	INTERFACES				*/
+/* ------------------------ */
+
+#interfaces .pageContent { width: 650px; min-height: 1300px;}
+#interfaces .traditional { margin-left: 20px; }
+
+#interfaces td { padding: 5px 15px 5px 15px;  border-bottom: #566c10 1px solid; border-right: #566c10 1px solid; background-color: #6a7f10; vertical-align: top; color: #fff; vertical-align: bottom; width: 100px; font-size: 1.2em; width: 200px; }
+#interfaces th { background-color: #42520e; padding: 5px 15px 5px 15px; color: #fff; font-weight: bold; font-size: 1.2em; width: 200px; }
+#interfaces tr.last { border-bottom: #42520e 4px solid; }
+#interfaces span.arrows { font-size: 1.5em; }
+
+#interfaces #pageNav li { display: block; width: 196px; height: 30px; margin-bottom: 6px; }
+    #interfaces #pageNav li a { display: block; width: 100%; height: 100%; text-indent: -9999px; outline: none; background-repeat: no-repeat; }
+    #interfaces #pageNav li a:hover { background-position: 0 -30px; }
+    #interfaces #pageNav li.active a { background-position: 0 -60px; }
+
+#interfaces h2 { margin-bottom: 0; padding-top: 15px; }
+#interfaces h3 { margin-top: 28px; font-size: 16px; margin-bottom: 0;}
+
+#sect_Support-Documents li, #sect_Report-Interfaces li { background: url(/web/20161219050828im_/http://www.athenahealth.com/cmp/interfaces/_img/doc-icon.png) no-repeat 0 0.25em; padding: 0 0 10px 20px; }
+
+#interfaces a.doc { background: url(/web/20161219050828im_/http://www.athenahealth.com/cmp/interfaces/_img/doc-icon.png) no-repeat 0 0.25em; padding: 0 0 0 20px; float: left; margin-right: 15px; }
+#interfaces a.arrow { padding: 0 0 5px 28px; }
+
+/* ------------------------ */
+/*	athenaCoordinator Login	*/
+/* ------------------------ */
+#athenaCoordinator-login p { font-size: 13px; line-height: 15px; }
+#athenaCoordinator-login #top-header { background-color: #566C10; height: 44px; border-bottom: 8px #fff solid; }
+#athenaCoordinator-login #login { background-color: #ccc; }
+#athenaCoordinator-login .col { height: 400px; }
+#athenaCoordinator-login p.first { padding-top: 20px; }
+#athenaCoordinator-login p.arrow { height: 19px; }
+#athenaCoordinator-login #explore a { display: block; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/layers/btn_explore_ah_2.gif) left top no-repeat; width: 250px; height: 42px; margin: 10px 0 10px 0; }
+#athenaCoordinator-login #explore a:hover { background-position: 0 -42px; }
+#athenaCoordinator-login #state { background-color: #6A7F10; position: absolute; top: 8px; right: 8px; padding: 6px 10px 6px 10px; }
+#athenaCoordinator-login #state p { font-size: 11px; }
+#athenaCoordinator-login #logo { margin: 8px 0 0 8px; }
+#athenaCoordinator-login #maintenance { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/c5_stripes.gif) #6a7f10 no-repeat bottom right; }
+#athenaCoordinator-login input { border: #000 solid 1px; margin-top: 5px; padding: 6px; color: #000; font: normal 13px Verdana;}
+#athenaCoordinator-login #login p { color: #000; }
+#athenaCoordinator-login #CntMain_LogOnButton { background-color: #566C10; border: 1px solid #42520e; margin-top: 15px; font-size: 13px; color: #fff; font-weight: bold; padding: 4px;}
+#athenaCoordinator-login #forget { border-top: 1px dashed #789697; background-color: #ccc; margin-top: 20px; padding-top: 20px; }
+#athenaCoordinator-login #forget a { color: #223C3D; font-size: 11px; }
+#athenaCoordinator-login #forget p { color: #000; font-size: 11px; }
+
+/* ------------------------ */
+/*	VaccineView				*/
+/* ------------------------ */
+#hdr_vv { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/hdr_vaccineview.png) no-repeat; height: 22px; width: 166px; margin: 25px 0 15px 67px;}
+#hdr_why_vv { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/hdr_why_vv.gif) no-repeat; height: 25px; width: 187px; padding:0; }
+#hdr_results { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/hdr_results.gif) no-repeat; height: 25px; width: 187px; padding: 0; }
+#hdr_methodology { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/hdr_methodology.gif) no-repeat; height: 25px; width: 187px; padding: 0; }
+#hdr_contact_us { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/hdr_contact_us.png) no-repeat; height: 18px; width: 583px; padding: 0; margin-left: 67px; }
+
+#vvhero { height: 390px; width: 694px; overflow: hidden; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/shadow-background.gif) #514A79; border-bottom: #fff 8px solid; }
+#vvCarousel { width: 10000px !important; }
+#vvCarousel li p { padding: 0 67px 0 67px; }
+#vvCarousel .chart { margin-left: 67px; }
+
+#vvCarousel .traditional li { background: url(/web/20161219050828im_/http://www.athenahealth.com/cmp/seminars/_img/bullet_purple.gif) no-repeat 0 6px; }
+#vvCarousel .traditional { margin: 0 67px 0 67px; }
+
+#svcsVaccineView #contactForm { margin: 20px 0 0 67px; }
+#svcsVaccineView #contactForm input.inputFocus, #svcsVaccineView #contactForm textarea.inputFocus { border: 1px solid #635b96; background: #9b95cb; color: #e3dded; }
+#svcsVaccineView #contactForm fieldset.checklabel { padding-top: 13px; padding-bottom: 5px; }
+        #svcsVaccineView #contactForm fieldset.checklabel label  {display: inline; font-weight: normal; vertical-align: top; font-size: 1.0em;}
+        #svcsVaccineView #contactForm fieldset.checklabel input { width: 20px !important; padding: 0; margin: 0; }
+    #svcsVaccineView #contactForm button { margin: 24px 0 30px !important; }
+    #svcsVaccineView #contactForm input, #svcsVaccineView #contactForm textarea { width: 238px; background-color: #746E94; border-color: #2D2B49; color: #2D2B49; font-size: 1.0em;}
+    #svcsVaccineView #contactForm #state { background-color: #746E94; border-color: #2D2B49; color: #2D2B49; }
+#svcsVaccineView #contactForm label { font-size: 1.0em; text-decoration: none; }
+#svcsVaccineView #contactForm label.first { padding-top: 0; }
+
+#svcsVaccineView #contactForm .leftCol { padding-right: 25px; border-right: 1px dashed #746E94; float: left; }
+#svcsVaccineView #contactForm .rightCol { padding-left: 25px; margin-left: 0; float: left; }
+
+button.btn_viewWhitepaper { width: 199px !important; height: 42px !important; background: transparent url(/web/20161219050828im_/http://www.athenahealth.com/_img/layers/btn_view_whitepaper-purp.gif) !important; background-position: 0 0; background-repeat: no-repeat; margin: 0 !important; text-indent: -9999px !important; }
+button.btn_viewWhitepaper:hover { background-position: 0 -42px !important; background-repeat: no-repeat; }
+
+#resourcesList .vidvv { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/_img/vaccineview/vv_video_thumb.gif); }
+
+/* ------------------------ */
+/*	PSI						*/
+/* ------------------------ */
+#PSItop { background-image: url(/web/20161219050828im_/http://www.athenahealth.com/PSI/_img/psi-background-top.png); height: 390px; padding: 0; width: 929px; }
+
+#PSIheader { height: 390px; overflow: hidden;  padding: 0 15px 0 15px; position: relative;}
+    #PSIheader h1 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-size:22px; margin-top: 20px  }
+    #PSIheader h2 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-size:22px; padding-top: 0; color:#f0cc01;  }
+    #PSIheader  h3 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; color: #f0cc01; font-size: 18px; font-weight: bold; margin-bottom: 10px; }
+
+#PSIcta { position: absolute; right: 50px; top: 90px; background-color: #172d2e; padding: 15px; width: 220px; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px; }
+    #PSIcta h3 { margin-top: 10px; }
+    #PSIcta li { color: #fff; font-size: 12px; background: url(/web/20161219050828im_/http://www.athenahealth.com/PSI/_img/check.png) no-repeat 0 3px; padding-left: 25px; margin-bottom: 15px; width: 180px;}
+    
+#PSICarousel { width: 10000px !important; height: 304px; }
+
+#PSICarousel #slide1 { background: url(/web/20161219050828im_/http://www.athenahealth.com/PSI/_img/docs.png) no-repeat 0 28px; height: 1000px; }
+
+#PSICarousel #slide3 { font-size: 13px; width: 600px; padding-left: 0; margin-left: 0; }
+
+#PSICarousel li p { padding: 0 67px 0 67px; }
+#PSICarousel .chart { margin-left: 67px; }
+
+#PSIcontent { border-top: 8px solid #fff; height: 500px; padding-top: 15px; }
+    #PSIcontent p { font-size: 13px; margin-bottom: 15px; width: 500px; margin-top: 10px;}
+
+#PSIgraph1, #PSIgraph2, #PSIgraph4, #PSIgraph5 { width: 350px; background-color: #45570d; float: right; margin-bottom: 15px; padding: 15px 15px 5px 15px; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px;  }
+    #PSIgraph1 h3, #PSIgraph2 h3, #PSIgraph4 h3, #PSIgraph5 h3 { ff-meta-web-pro-n7, ff-meta-web-pro, color: #f0cc01; font-size: 18px; font-weight: bold; margin-bottom: 15px; }
+    #PSIgraph1 p, #PSIgraph2 p, #PSIgraph4 p , #PSIgraph5 p{ color: #f0cc01; font-weight: bold; ff-meta-web-pro-n7, ff-meta-web-pro, font-size: 13px; width: 350px;}
+
+.bar { height: 20px; width: 350px; background-color: #6a7f10; margin-bottom: 5px; position: relative; }
+.bar span {ff-meta-web-pro-n7, ff-meta-web-pro, font-size: 13px; font-weight: bold; color: #fff; position: absolute; top: 5px; left: 5px; }
+    #PSIgraph1 #bar1 { width: 241.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph1 #bar2 { width: 262.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph1 #bar3 { width: 185.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph1 #bar4 { width: 203px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph1 #bar5 { width: 220.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph1 #bar6 { width: 189px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    
+    #PSIgraph2 #bar1 { width: 112px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar2 { width: 136.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar3 { width: 136.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar4 { width: 133px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar5 { width: 45.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar6 { width: 31.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar7 { width: 38.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar8 { width: 35px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar9 { width: 21px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph2 #bar10 { width: 14px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat;; padding-top: 3px; }
+    
+    #PSIgraph4 #bar1 { width: 119px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar2 { width: 133px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar3 { width: 164.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar4 { width: 157.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar5 { width: 56px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar6 { width: 164.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar7 { width: 98px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph4 #bar8 { width: 178.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    
+    #PSIgraph5 #bar1 { width: 164.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar2 { width: 178.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar3 { width: 140px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar4 { width: 129.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar5 { width: 164.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar6 { width: 164.5px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar7 { width: 143.5px; height: 17px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; padding-top: 3px; }
+    #PSIgraph5 #bar8 { width: 140px; height: 17px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; padding-top: 3px; }
+
+#key li { float: left; ff-meta-web-pro-n7, ff-meta-web-pro, font-size: 13px; font-weight: bold; color: #fff; }
+#box2012 { height: 20px; width: 20px; background: #8a4c17 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color4_stripes.gif) repeat; float: left; margin: 0 10px 0 0; }
+#box2011 { height: 20px; width: 20px; background: #2b4647 url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color3_stripes_bottom.gif) repeat; margin: 0 10px 0 25px; }
+
+#svcsPSI #contactForm { margin: 15px 0 0 0; }
+#svcsPSI #contactForm input.inputFocus, #svcsPSI #contactForm textarea.inputFocus { border: 1px solid #789697; background: #a5c6c7; color: #223c3d; }
+#svcsPSI #contactForm fieldset.checklabel { padding-top: 13px; padding-bottom: 5px; }
+        #svcsPSI #contactForm fieldset.checklabel label  {display: inline; font-weight: normal; vertical-align: top; font-size: 1.0em;}
+        #svcsPSI #contactForm fieldset.checklabel input { width: 20px !important; padding: 0; margin: 0; }
+    #svcsPSI #contactForm button { margin: 24px 0 30px !important; }
+    #svcsPSI #contactForm input, #svcsPSI #contactForm textarea { width: 238px; background-color: #7fa0a1; border-color: #789697; color: #223c3d; font-size: 1.0em;}
+    #svcsPSI #contactForm #state { background-color: #7fa0a1; border-color: #789697; color: #223c3d; }
+#svcsPSI #contactForm label { font-size: 1.0em; text-decoration: none; }
+#svcsPSI #contactForm label.first { padding-top: 0; }
+
+#svcsPSI #contactForm .leftCol { padding-right: 25px; border-right: 1px dashed #789697; float: left; }
+#svcsPSI #contactForm .rightCol { padding-left: 25px; margin-left: 0; float: left; }
+
+button.btn_viewWhitepaper { width: 250px !important; height: 42px !important; background: transparent url(/web/20161219050828im_/http://www.athenahealth.com/PSI/_img/PSI-button.png) !important; background-position: 0 0; background-repeat: no-repeat; margin: 0 !important; text-indent: -9999px !important; }
+button.btn_viewWhitepaper:hover { background-position: 0 -42px !important; background-repeat: no-repeat; }
+
+#PSI-navigation li { font-size: 13px; background: url(/web/20161219050828im_/http://www.athenahealth.com/PSI/_img/dotted-arrow-white.png) no-repeat; padding-left: 25px; margin-bottom: 5px; }
+
+#PSI-navigation { margin-bottom: 15px; }
+
+/* ------------------------ */
+/*	athenaCoordinator Core Landing Page	*/
+/* ------------------------ */
+#coord-core p { font-size: 13px; margin-bottom: 15px; }
+#coord-core li { font-size: 13px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/boxes/color2_bullet.gif) no-repeat 0 6px; margin-left: 15px; }
+
+#coord-core #mainContent img { float: right; height: 215px; }
+
+#coord-core h1 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-weight:700; font-size: 36px; color: #fff; line-height: 1.25; margin-bottom: 15px; margin-top: 20px; }
+    #coord-core h1 span, #coord-core h2 span { color: #f0cb01; }
+#coord-core h2 { font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-weight:700; font-size: 21px; color: #fff; line-height: 1.25; margin-bottom: 15px; }
+
+#coord-core li#foot_privacy { margin-left: 0; }
+#coord-core li#foot_terms { background-image: none; }
+
+#coord-core #imaging-centers, #coord-core #hospitals, #coord-core #labs { float: left; width: 180px; margin-right: 15px; display: block;text-align: center; padding: 100px 0 15px 0; color: #fff; text-transform: uppercase; font-family: ff-meta-web-pro-n7, ff-meta-web-pro, sans-serif; font-weight:700; font-size: 16px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;  }
+    #coord-core #imaging-centers:hover, #coord-core #hospitals:hover, #coord-core #labs:hover { background-color: #172d2e; text-decoration: none; }
+    #coord-core #labs { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/lab-icon.png) no-repeat 50px 15px #39585a; }
+    #coord-core #hospitals { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/hospital-icon.png) no-repeat 50px 15px #39585a; }
+    #coord-core #imaging-centers { background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/services/imaging-icon.png) no-repeat 50px 15px #39585a; }
+
+#coord-core #whitepaper-CTA { font-size: 11px; color: #fff;  }
+#coord-core #questions { position: absolute; top: 0; right: 0; }
+#coord-core label:hover { text-decoration: none; }
+#coord-core .errata p { font-size: 11px; }
+
+/* ------------------------ */
+/*	athenaCoordinator		*/
+/* ------------------------ */
+
+#CoordinatorCore { height: 161px; background: url(/web/20161219050828im_/http://www.athenahealth.com/cmp/MURC/_img/welcome_bg.jpg) no-repeat bottom left; }
+    #CoordinatorCore h2 { font-family: ff-meta-web-pro-n4, ff-meta-web-pro,sans-serif; 
+        font-weight: normal; 
+        font-size:21px; 
+        line-height: 1.5; 
+        font-weight: bold; 
+        color: #fff; 
+        padding: 15px 15px 0 15px; }
+    #CoordinatorCore p { font-size: 13px; margin: 0 15px 15px 15px; }
+
+#CoordinatorCore2 {height: 376px; background: url(/web/20161219050828im_/http://www.athenahealth.com/_img/panels/coordinator-signup.gif) 0px 138px no-repeat #5f8887; border-bottom: 8px solid white; }
+    #CoordinatorCore2 h2 { font-family: ff-meta-web-pro-n4, ff-meta-web-pro,sans-serif; 
+        font-weight: normal; font-size:19px;
+        font-weight: bold; 
+        color: #fff; 
+        padding: 15px 0 15px 0; }
+    
+    #CoordinatorCore2 p { font-size: 13px; }

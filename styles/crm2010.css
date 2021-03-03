@@ -1,0 +1,247 @@
+/* Meeting Request
+**********************************************/
+#meeting-request #container {
+  width: 1024px;
+}
+#meeting-request .wider {
+  width: 1024px;
+  padding: 0;
+}
+
+#meeting-request .col h1 {
+  margin-top: 30px;
+  font-size: 60px;
+  color: #799a3d;
+  font-family: ff-mark-web-n3, ff-mark-web, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  margin-bottom: 20px;
+  line-height: 60px;
+}
+#meeting-request .col h2 {
+  font-weight: 700;
+  margin-bottom: 3px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #5b5b5b;
+  font-family: ff-mark-web-n6, ff-mark-web, sans-serif;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+#meeting-request .col p {
+  font-size: 20px !important;
+  line-height: 21px;
+  font-family: futura-pt-n4, futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #5b5b5b;
+}
+#meeting-request form button {
+  background: #863375
+    url(/web/20161219062135im_/http://www.athenahealth.com/_img/redesign/arrow.png)
+    no-repeat 205px 16px;
+  font-family: "ff-mark-web-n6", "ff-mark-web", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 54px;
+  height: 52px;
+  border-radius: 10px;
+  width: 240px;
+  text-align: left;
+  margin-top: 30px;
+}
+#meeting-request form button:hover {
+  background-position: 205px 16px !important;
+}
+#meeting-request form {
+  margin-bottom: 40px;
+}
+#meeting-request form input,
+#meeting-request form select {
+  background: #f6f6f6;
+  border: none;
+  font-size: 20px !important;
+  line-height: 21px;
+  font-family: futura-pt-n4, futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  color: #5b5b5b;
+}
+
+#meeting-request .validation_inside h3,
+#meeting-request .validation_inside ul li {
+  text-transform: none !important;
+  background: none !important;
+  padding-left: 0 !important;
+  color: red !important;
+  font-family: "ff-mark-web-n6", "ff-mark-web", sans-serif;
+  font-size: 18px;
+}
+
+/* *********************** */
+/* Schedule a Meeting Form */
+/* *********************** */
+#lyr_top h1 {
+  font-size: 14px;
+  font-weight: bold;
+}
+#lyr_top h1 span {
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.meetingTime {
+  margin-bottom: 14px;
+}
+.meetingTime .meetingNum {
+  width: 22px;
+  height: 22px;
+  text-indent: -9999px;
+  background-repeat: no-repeat;
+  float: left;
+  margin-right: 8px;
+}
+.meetingComplete .meetingNum {
+  background-position: 0 -22px !important;
+}
+#meeting1 .meetingNum {
+  background-image: url(/web/20161219062135im_/http://www.athenahealth.com/crm/_img/dot_1.gif);
+}
+#meeting2 .meetingNum {
+  background-image: url(/web/20161219062135im_/http://www.athenahealth.com/crm/_img/dot_2.gif);
+}
+#meeting3 .meetingNum {
+  background-image: url(/web/20161219062135im_/http://www.athenahealth.com/crm/_img/dot_3.gif);
+}
+
+.meetingNum2 {
+  font-weight: 700;
+  margin-bottom: 3px;
+  font-size: 20px;
+  line-height: 24px;
+  color: #5b5b5b;
+  font-family: ff-mark-web-n6, ff-mark-web, sans-serif;
+  font-style: normal;
+  float: left;
+  margin-right: 20px;
+}
+
+#meetingForm input,
+#meetingForm select {
+  background-color: #758923;
+  border: 1px solid #758923;
+  font-weight: bold;
+  color: white;
+}
+#meetingForm input {
+  padding: 4px 6px;
+}
+#meetingForm input.date-pick {
+  width: 138px;
+  float: left;
+  margin-right: 8px;
+}
+#meetingForm select {
+  padding: 2px;
+  float: left;
+}
+#meetingForm option {
+  color: white;
+  font-weight: normal;
+}
+
+button {
+  width: 120px;
+}
+
+ul.arrows {
+  margin-top: 15px;
+}
+ul.arrows li {
+  height: 20px;
+  line-height: 20px;
+  display: inline-block;
+  background: url(/web/20161219062135im_/http://www.athenahealth.com/crm/_img/arrow.gif)
+    left center no-repeat;
+  padding-left: 25px;
+  margin-bottom: 8px;
+  margin-top: 0;
+}
+
+/* *********************** */
+/* Specialty Form          */
+/* *********************** */
+#specialtyList {
+  padding: 7px 25px 22px 25px;
+  margin: 10px 0 18px 0;
+  background-color: #495c0b;
+  position: relative;
+}
+#specialtyList div {
+  width: 50%;
+  float: left;
+  margin: 15px 0 0 0;
+}
+#specialtyList input {
+  vertical-align: text-bottom;
+  background-color: #495c0b;
+  border: 0;
+}
+#specialtyList label {
+  color: white;
+  font-size: 11px;
+}
+
+/* *********************** */
+/* Calendar Customization  */
+/* *********************** */
+table.jCalendar {
+  border: 1px solid white;
+  background: white;
+}
+table.jCalendar th {
+  background: white;
+  color: #999;
+}
+table.jCalendar td {
+  background: #d3d385;
+  color: #3f4f0e;
+  font-weight: bold;
+  text-decoration: underline;
+}
+table.jCalendar td.other-month {
+  background: #d3d385;
+  color: #d3d385 !important;
+}
+table.jCalendar td.today {
+  background: #d3d385;
+  color: #3f4f0e;
+}
+table.jCalendar td.selected {
+  background: #d3d385;
+  color: #fe0000;
+}
+table.jCalendar td.selected:hover {
+  background: #d3d385;
+  color: #3f4f0e;
+  text-decoration: none;
+}
+table.jCalendar td:hover,
+table.jCalendar td.dp-hover {
+  background: #d3d385;
+}
+table.jCalendar td.disabled,
+table.jCalendar td.disabled:hover {
+  background: #d3d385;
+  color: #999;
+  font-weight: normal;
+  text-decoration: none;
+}
+div.dp-popup {
+  background: white;
+}
+div.dp-popup h2 {
+  color: #587109;
+  font-weight: bold;
+}
